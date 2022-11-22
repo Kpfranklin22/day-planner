@@ -4,7 +4,9 @@
 
 This exercise is about using local storage to create a working day planner for the user.
 
-Deployed website:
+![dayplannerscreenshot](https://user-images.githubusercontent.com/115495027/203442572-787bd861-6974-47ca-bbeb-2c0f9afa357b.png)
+
+Deployed website: https://kpfranklin22.github.io/day-planner/
 
 ## Usage
 
