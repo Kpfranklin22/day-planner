@@ -10,4 +10,4 @@ Deployed website: https://kpfranklin22.github.io/day-planner/
 
 ## Usage
 
-The user inputs data into the text boxes and is able to save it by clicking the save button. Once saved the data remains after refreshing the website, or visiting another website, to be able to reference and plan their work day accordingly.
+The user inputs data into the text boxes and is able to save it by clicking the save button. The saved data remains after refreshing the website, or visiting another website, and the user is able to reference and plan their work day accordingly.
